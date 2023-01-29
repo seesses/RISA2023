@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606318847515",
+    "project_id": "risa-a29e4",
+    "storage_bucket": "risa-a29e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606318847515:android:666bf06fcc10ef4246babe",
+        "android_client_info": {
+          "package_name": "com.ll.risa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606318847515-vn03s2rcs6m8bhgmvrc76b7r1o3cm4mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6KcLwjp3qQYAWPrLgS-IBy8y9NP2JWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606318847515-vn03s2rcs6m8bhgmvrc76b7r1o3cm4mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
